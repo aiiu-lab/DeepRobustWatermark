@@ -1,4 +1,4 @@
-checkpoints
+checkpoints*
 feature_extractors
 scripts/taming
 src
