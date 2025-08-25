@@ -33,7 +33,7 @@ For the environmental setup, please refer to [WAVES](https://github.com/umd-huan
 
 Please refer to [Accelerate](https://huggingface.co/docs/accelerate/package_reference/cli) before running the code.
 
-Downolad and put [kl-f16.zip](https://github.com/Jason-user/ensemble_stegastamp/releases/tag/kl-f16) under the folder feature_extractors.
+Downolad and put [kl-f16.zip](https://github.com/aiiu-lab/DeepRobustWatermark/releases/tag/kl-f16.zip) under the folder feature_extractors.
 
 ```
 # git clone https://github.com/XuandongZhao/WatermarkAttacker
