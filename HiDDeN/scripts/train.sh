@@ -16,7 +16,7 @@ CUDA_VISIBLE_DEVICES=9 python3 ../train.py \
 --name Parallel_BIT30 \
 --redundant_length 120 \
 --message_length 30 \
-# --load_checkpoint /scratch1/users/jason890425/DeepRobustWatermark/HiDDeN/checkpoints/Parallel_best.pyt
+--load_checkpoint pretrain_iter19999.pyt
 
 ### adv_type ###
 # choice : [none,hidden,cnn,transformer,dct_cnn,dct_transformer,parallel,cascade]
