@@ -3,7 +3,7 @@
 Workshop on AISec in ACM CCS 2025
 
 #### [Paper](https://github.com/aiiu-lab/DeepRobustWatermark) | [arXiv](https://github.com/aiiu-lab/DeepRobustWatermark)
-![teaser](teaser.png)
+<!-- ![teaser](teaser.png) -->
 Tzuhsuan Huang*,
 Cheng Yu Yeo*,
 Tsai-Ling Huang,
