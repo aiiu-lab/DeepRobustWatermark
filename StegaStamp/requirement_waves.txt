@@ -1,0 +1,9 @@
+tqdm
+omegaconf==2.1.1
+pytorch-lightning==1.4.2
+transformers==4.32.1
+-e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
+torchmetrics==0.5
+compressai
+accelerate
+taming-transformers
