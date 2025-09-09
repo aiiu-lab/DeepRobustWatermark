@@ -1,6 +1,6 @@
 # Enhancing Robustness in Post-Processing Watermarking: An Ensemble Attack Network Using CNNs and Transformers
 
-Workshop on AISec in ACM CCS 2025
+Workshop on AISec in ACM CCS 2025 (Spotlight)
 
 #### [Paper](https://arxiv.org/pdf/2509.03006) | [arXiv](https://arxiv.org/abs/2509.03006)
 <!-- ![teaser](teaser.png) -->
